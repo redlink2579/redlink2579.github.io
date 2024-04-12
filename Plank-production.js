@@ -56,7 +56,7 @@ function production(tree, cycle, sawmill1, sawmill2) {
 
     cutlog = log * 2
     chunkplank = cutlog
-    plank = chunkplank * 2
+    plank = chunkplank * 3
 
     for (let i = 0; i <= 3 ; i++) {
         const arrcycle = [Firstcycle,secondcycle,thirdcycle,finalresult]
